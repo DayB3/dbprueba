@@ -1,6 +1,6 @@
 [{
         "id": 1
-        "nombre": "Monitor Gamer LG 45 UltraGear OLED WQHD",
+        "name": "Monitor Gamer LG 45 UltraGear OLED WQHD",
         "marca": "LG",
         "detalles": "Pantalla curva de 45 pulgadas con una resolución WQHD, perfecta para una experiencia de juego inmersiva. Tiempo de respuesta ultrarrápido de 1 ms y tecnología OLED para colores vivos y negros profundos.",
         "caracteristicas": "Frecuencia de actualización: 144 Hz, HDR10, Ángulo de visión amplio",
@@ -11,7 +11,7 @@
     },
     {
         "id": 2    
-        "nombre": "Coolermaster masterbox TD500 CRYSTAL",
+        "name": "Coolermaster masterbox TD500 CRYSTAL",
         "marca": "Coolermaster",
         "detalles": "Gabinete espacioso con paneles de vidrio templado que permite una excelente visualización de los componentes internos. Diseño con excelente flujo de aire para mantener los componentes frescos durante largas sesiones de juego.",
         "caracteristicas": "Soporte para refrigeración líquida, Panel frontal con iluminación RGB",
