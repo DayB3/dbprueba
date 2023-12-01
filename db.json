@@ -1,11 +1,20 @@
 {
-  "posts": [
+        "nombre": "Monitor Gamer LG 45 UltraGear OLED WQHD",
+        "marca": "LG",
+        "detalles": "Pantalla curva de 45 pulgadas con una resolución WQHD, perfecta para una experiencia de juego inmersiva. Tiempo de respuesta ultrarrápido de 1 ms y tecnología OLED para colores vivos y negros profundos.",
+        "caracteristicas": "Frecuencia de actualización: 144 Hz, HDR10, Ángulo de visión amplio",
+        "precio": 8399000,
+        "cantidad": 12,
+        "rutaImagen": "productos/img/moni.jpg",
+        "tipoProducto": "monitor",
+    },
     {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+        "nombre": "Coolermaster masterbox TD500 CRYSTAL",
+        "marca": "Coolermaster",
+        "detalles": "Gabinete espacioso con paneles de vidrio templado que permite una excelente visualización de los componentes internos. Diseño con excelente flujo de aire para mantener los componentes frescos durante largas sesiones de juego.",
+        "caracteristicas": "Soporte para refrigeración líquida, Panel frontal con iluminación RGB",
+        "precio": 580000,
+        "cantidad": 12,
+        "rutaImagen": "productos/img/pc2.jpg",
+        "tipoProducto": "chasis",
+    },
