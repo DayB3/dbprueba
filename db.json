@@ -1,4 +1,4 @@
-{
+[{
         "nombre": "Monitor Gamer LG 45 UltraGear OLED WQHD",
         "marca": "LG",
         "detalles": "Pantalla curva de 45 pulgadas con una resolución WQHD, perfecta para una experiencia de juego inmersiva. Tiempo de respuesta ultrarrápido de 1 ms y tecnología OLED para colores vivos y negros profundos.",
@@ -17,4 +17,4 @@
         "cantidad": 12,
         "rutaImagen": "productos/img/pc2.jpg",
         "tipoProducto": "chasis",
-    },
+    }]
